@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<swc xmlns="http://www.adobe.com/flash/swccatalog/9">
+  <versions>
+    <swc version="1.2" />
+    <flex version="4.6.0" build="23201" minimumSupportedVersion="3.0.0" />
+  </versions>
+  <features>
+    <feature-script-deps />
+    <feature-files />
+  </features>
+  <libraries>
+    <library path="library.swf">
+      <script name="com/baidu/ane/BaiduEvents" mod="1370846242000" signatureChecksum="2304136089" >
+        <def id="com.baidu.ane:BaiduEvents" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="com/baidu/ane/BaiduExtension" mod="1370848882000" signatureChecksum="655288085" >
+        <def id="com.baidu.ane:BaiduExtension" /> 
+        <dep id="flash.events:StatusEvent" type="e" /> 
+        <dep id="flash.external:ExtensionContext" type="e" /> 
+        <dep id="flash.events:IEventDispatcher" type="s" /> 
+        <dep id="flash.events:StatusEvent" type="s" /> 
+        <dep id="flash.external:ExtensionContext" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.events:EventDispatcher" type="i" /> 
+      </script>
+      <script name="_f4a12d51c7c6f4d6e53fbb92696360dfbdb0af56a50ed765a0680f6a3864567a_flash_display_Sprite" mod="1370848884859" signatureChecksum="4123425531" >
+        <def id="_f4a12d51c7c6f4d6e53fbb92696360dfbdb0af56a50ed765a0680f6a3864567a_flash_display_Sprite" /> 
+        <dep id="flash.system:Security" type="e" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.display:Sprite" type="i" /> 
+      </script>
+      <digests>
+        <digest type="SHA-256" signed="false" value="cb8d841c7227bbda0ec54c800af1869b624555718c7678d73b2fe94689f1c17d"   />
+      </digests>
+    </library>
+  </libraries>
+  <files>
+  </files>
+</swc>
